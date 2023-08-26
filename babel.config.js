@@ -24,6 +24,7 @@ module.exports = function (api) {
 						tests: ["./tests/"],
 						"@components": "./src/components",
 						"@assets": "./src/assets",
+						"@config": "./src/config",
 					},
 				},
 			],

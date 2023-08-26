@@ -29,6 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:356701098833:ios:fb0c4259e39b8b0ebd7970</string>
+	<string>1:356701098833:ios:27b3159ce3436b13bd7970</string>
+	<key>DATABASE_URL</key>
+	<string>https://splitbeeapp-default-rtdb.asia-southeast1.firebasedatabase.app</string>
 </dict>
 </plist>

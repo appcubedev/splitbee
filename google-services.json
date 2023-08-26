@@ -1,20 +1,21 @@
 {
   "project_info": {
     "project_number": "356701098833",
+    "firebase_url": "https://splitbeeapp-default-rtdb.asia-southeast1.firebasedatabase.app",
     "project_id": "splitbeeapp",
     "storage_bucket": "splitbeeapp.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:356701098833:android:b2f466df60ba4ec5bd7970",
+        "mobilesdk_app_id": "1:356701098833:android:adee9372dc1b7895bd7970",
         "android_client_info": {
           "package_name": "dev.appcube.splitbee"
         }
       },
       "oauth_client": [
         {
-          "client_id": "356701098833-jesj1t2i3v0idhh44rlg6leht4nt4kg0.apps.googleusercontent.com",
+          "client_id": "356701098833-6crs1pruc0t3bq7sp1pe1rmo5kuljrcc.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -27,7 +28,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "356701098833-jesj1t2i3v0idhh44rlg6leht4nt4kg0.apps.googleusercontent.com",
+              "client_id": "356701098833-6crs1pruc0t3bq7sp1pe1rmo5kuljrcc.apps.googleusercontent.com",
               "client_type": 3
             },
             {
