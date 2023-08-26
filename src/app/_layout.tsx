@@ -4,6 +4,7 @@ import auth from "@react-native-firebase/auth";
 import "@react-native-firebase/firestore";
 import { Slot, router } from "expo-router";
 import React, { useEffect, useState } from "react";
+import { View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { Provider, useDispatch } from "react-redux";
 import store from "store";
@@ -48,5 +49,5 @@ const App = ({ children }: any) => {
 		if (initializing) setInitializing(false);
 	}
 
-	return <SafeAreaView>{children}</SafeAreaView>;
+	return <View>{children}</View>;
 };
